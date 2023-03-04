@@ -1,0 +1,4 @@
+Resolusi Saya
+- Belajar git & github
+- Belajar Reactjs & Nextjs
+- Perdalam css dan javascript
