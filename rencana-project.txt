@@ -1,5 +1,11 @@
 Rencaan project
 - Project Reactjs/Nextjs
+  * Portfolio
 - Project TypeScript
+  * To Do List
 - Project MERN
+  * Admin
 - Template Admin
+  * Menggunakan CSS Murni
+  * Menggunakan Bootstrap
+  * Menggunakan TailwindCSS
