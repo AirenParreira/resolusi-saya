@@ -3,3 +3,6 @@ Rencaan project
 - Project TypeScript
 - Project MERN
 - Template Admin
+  * Menggunakan CSS Murni
+  * Menggunakan Bootstrap
+  * Menggunakan TailwindCSS
