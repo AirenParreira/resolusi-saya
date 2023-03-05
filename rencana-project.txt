@@ -1,5 +1,9 @@
 Rencaan project
 - Project Reactjs/Nextjs
+  * To Do List
 - Project TypeScript
+  * To Do List
 - Project MERN
+  * To Do List
 - Template Admin
+  * Menggunakan Tailwind
