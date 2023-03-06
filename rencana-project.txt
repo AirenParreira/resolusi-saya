@@ -4,6 +4,8 @@ Rencaan project
 - Project TypeScript
   * To Do List
 - Project MERN
-  * Admin
+  * website gudang
 - Template Admin
   * Menggunakan Tailwind
+- Project Django
+  * website gudang
