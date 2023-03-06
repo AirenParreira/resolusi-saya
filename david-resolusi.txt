@@ -1,0 +1,3 @@
+Resolusi saya :
+- membuat website menggunakan React/Next
+- membuat website menggunakan django
